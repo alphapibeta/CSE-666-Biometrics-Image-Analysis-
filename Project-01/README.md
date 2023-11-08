@@ -1,6 +1,6 @@
 # CSE666 Programming Assignment 1
 ### Professor - Nalini Ratha
-### UBName - ronakhar; Person # - 50477951
+### UBName - ronakhar; 
 ### Teammates - Ronak Haresh Chhatbar
 
 ## Task 1: Annotation
